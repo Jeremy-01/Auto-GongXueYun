@@ -1,17 +1,17 @@
 [
   {
-    "remark": "lzl",
-    "phone": "19180978089",
-    "password": "Morrino98224",
-    "province": "四川省",
-    "city": "成都市",
-    "area": "都江堰市",
-    "address": "四川省 · 成都市 · 都江堰市 · 在四川工商职业技术学院附近",
-    "longitude": "103.694099",
-    "latitude": "30.912996",
+    "remark": "自定义用户备注名称",
+    "phone": "手机号",
+    "password": "密码",
+    "province": "xx省",
+    "city": "xx市",
+    "area": "xx区",
+    "address": "最终打卡页面显示的文字，xx省 · xx市 · 某路边",
+    "longitude": "经度(精确到小数点后六位)",
+    "latitude": "纬度(精确到小数点后六位)",
     "randomLocation": true,
     "enable": true,
-    "desc": "",
-    "pushKey": ""
+    "desc": "打卡备注",
+    "pushKey": "pushplus官网获取的key，需要实名"
   }
 ]
